@@ -1,4 +1,4 @@
-/*
+/**
 // Background canvas animation
 (function() {
 
@@ -182,4 +182,4 @@
     }
 
 })();
-*?
+***/
